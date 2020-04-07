@@ -3,7 +3,7 @@ const express = require('express');
 const hbs = require('hbs')
 
 const app = express();
-
+ 
 
 // defining the path for express config 
 const viewDirectoryPath = path.join(__dirname,'../templates/views')
